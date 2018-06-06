@@ -38,11 +38,14 @@ Create A Set of Radio Buttons
 FREECODECAMP.ORG
 
 
+//
+//
 
 
 DAY 1: June 4th - June 5th
 
 Todays progress:
+
 Word Blanks	June 5, 2018
 
 Use Bracket Notation To Find the Nthtolast Character In A String	June 5, 2018	
@@ -166,5 +169,48 @@ Nest Many Elements Within A Single Div Element	June 3, 2018
 Check Radio Buttons and Checkboxes By Default	June 3, 2018	
 
 Create A Set of Checkboxes	June 3, 2018
+
+FREECODECAMP.ORG
+
+//
+//
+
+DAY: 2
+
+Todays progress:
+
+Return A Value From A Function with Return	June 5, 2018	
+
+Global Vs Local Scope In Functions	June 5, 2018	
+
+
+Local Scope and Functions	June 5, 2018	
+
+Global Scope and Functions	June 5, 2018	
+
+Passing Values To Functions with Arguments	June 5, 2018	
+
+Write Reusable JavaScript with Functions	June 5, 2018	
+
+
+Shopping List	June 5, 2018	
+
+Manipulate Arrays with Unshift	June 5, 2018	
+
+Manipulate Arrays with Shift	June 5, 2018	
+
+Manipulate Arrays with Pop	June 5, 2018	
+
+Manipulate Arrays with Push	June 5, 2018	
+
+Access Multidimensional Arrays with Indexes	June 5, 2018	
+
+Modify Array Data with Indexes	June 5, 2018	
+
+Access Array Data with Indexes	June 5, 2018	
+
+Nest One Array Within Another Array	June 5, 2018	
+
+Store Multiple Values In One Variable Using JavaScript Arrays	June 5, 2018
 
 FREECODECAMP.ORG
